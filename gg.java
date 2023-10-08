@@ -8,4 +8,6 @@ public class gg {
    public void go() {
       System.out.println("go");
    }
+
+// Тестируем
 }
